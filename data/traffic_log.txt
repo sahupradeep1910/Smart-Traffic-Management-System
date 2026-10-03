@@ -1,0 +1,13 @@
+# Smart Traffic Management System - Traffic Log
+Vehicle added | 9876 | Car | Lane 1
+Emergency vehicle added | Ambulance | Ambulance | Lane 1
+Processed | Ambulance | Ambulance | Lane 1 | Priority 10
+
+--- Traffic Status Snapshot ---
+Lane 1 : 1 vehicles
+Lane 2 : 0 vehicles
+Lane 3 : 0 vehicles
+Signal State: RED
+Total waiting vehicles: 1
+-------------------------------
+Signal changed to GREEN
